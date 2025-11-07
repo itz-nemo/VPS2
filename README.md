@@ -1,3 +1,4 @@
+<img width="2940" height="1670" alt="CleanShot 2025-11-07 at 15 59 18@2x" src="https://github.com/user-attachments/assets/d001a9d2-d8bd-40b6-98b0-59a7223991d8" />
 # URL Shortener - Vercel Python App
 
 A modern web application for shortening URLs using the Dub API. Built with Flask, deployed on Vercel.
